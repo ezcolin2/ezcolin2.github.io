@@ -1,0 +1,21 @@
+body{
+  background-color : beige;
+}
+#listForm{
+  text-align: center;
+  margin : 50px;
+}
+#listForm input{
+  width : 500px;
+  height : 50px;
+  border-radius : 10px;
+  border:none;
+}
+#listForm button{
+  width : 100px;
+  height : 50px;
+  background-color: skyblue;
+  border-radius : 50px;
+  border:none;
+
+}
